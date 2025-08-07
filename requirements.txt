@@ -2,7 +2,7 @@ pymupdf==1.25.5
 langchain==0.3.24
 langchain-text-splitters==0.3.8
 openai==1.72.0
-pinecone-client==3.0.0
+pinecone-client==5.0.1
 tiktoken==0.7.0
 tenacity==9.0.0
 python-dotenv==1.0.1
@@ -12,5 +12,5 @@ supabase==2.4.0
 uuid==1.30
 requests==2.31.0
 beautifulsoup4==4.12.2
-fastapi==0.104.1
-uvicorn==0.24.0
+fastapi==0.115.6
+uvicorn==0.32.1
